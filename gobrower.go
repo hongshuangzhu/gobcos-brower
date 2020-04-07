@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"gitee.com/assem/safe_device_blockchain/blockchain"
+	"github.com/hongshuangzhu/gobcos-brower/blockchain"
 )
 
 var (
