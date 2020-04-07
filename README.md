@@ -1,5 +1,6 @@
-1: 运行
-    go run .\safe.go .\result_data.go .\crypto.go .\base64.go
-
-2: 查看支持的交叉编译
-    go tool dist list
+基于 
+https://github.com/KasperLiu/gobcos.git
+为环境
+参照
+https://github.com/Wall-ee/FiscoBcos-PyConsole
+修改
